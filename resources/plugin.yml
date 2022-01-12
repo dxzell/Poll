@@ -1,0 +1,11 @@
+name: PollPlugin
+version: '${project.version}'
+main: com.dxzell.plugin.Main
+api-version: 1.18
+commands:
+  poll:
+  ok:
+
+
+
+
